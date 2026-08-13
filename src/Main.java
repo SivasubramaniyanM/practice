@@ -15,6 +15,6 @@ public class Main {
         }
         ??ho
 
-        sc.close()g
+        sc.close()igit
     }
 }

@@ -6,15 +6,15 @@ public class Main {
 
 
 
-        int num = sc.nextInt()();
+        int num = sc.nextInt();
 
         if (num % 2 != 0) {
-            System.out.println(num + " is an Odd numberrrr.");
+            System.out.println(num + " is an Odd");
         } else {
             System.out.println(num + " is an Even number.");
         }
         ??ho
 
-        sc.close()ki
+        sc.closehi
     }
 }
